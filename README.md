@@ -7,7 +7,8 @@ This folder contains the projects related to Quantum Programming, Quantum Physic
 
 | ${Serial \space No}$ | ${Project \space Name}$ | ${Project \space Link}$ | ${Completion \space Status}$ |
 |-|-|-|-|
-| 1 | ***Entanglement Of Qbits*** | [Project-I](https://github.com/VishuKalier2003/Qbit-Entanglement) | ***Completed*** ✔️ |
+| $${1}$$ | ***Entanglement Of Qbits*** | [Project-I](https://github.com/VishuKalier2003/Qbit-Entanglement) | ***Completed*** ✔️ |
+| $${2}$$ | ***Quantum Teleportation*** | [Project-II]() | ***Completed*** :heavy_check_mark: |
 
 ## ${\color{lightblue} Contributed \space By}$
 ***Vishu Kalier***
